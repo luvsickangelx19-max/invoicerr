@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "google_sheets": {
+      "enabled": false
+    },
+    "granola": {
+      "enabled": true
+    },
+    "shaders": {
+      "enabled": true
+    },
+    "notion": {
+      "enabled": true
+    }
+  }
+}
